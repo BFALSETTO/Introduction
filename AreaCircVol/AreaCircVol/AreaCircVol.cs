@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace AreaCircVol
 {
-    static class Program
+    static class AreaCircVol
     {
         /// <summary>
         /// The main entry point for the application.
