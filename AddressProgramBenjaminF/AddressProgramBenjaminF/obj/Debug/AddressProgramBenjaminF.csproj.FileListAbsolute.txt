@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Falsetto, Benjamin (s255212)\Introduction\AddressProgramBenjaminF\AddressProgramBenjaminF\bin\Debug\AddressProgramBenjaminF.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Falsetto, Benjamin (s255212)\Introduction\AddressProgramBenjaminF\AddressProgramBenjaminF\bin\Debug\AddressProgramBenjaminF.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Falsetto, Benjamin (s255212)\Introduction\AddressProgramBenjaminF\AddressProgramBenjaminF\bin\Debug\AddressProgramBenjaminF.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Falsetto, Benjamin (s255212)\Introduction\AddressProgramBenjaminF\AddressProgramBenjaminF\obj\Debug\AddressProgramBenjaminF.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Falsetto, Benjamin (s255212)\Introduction\AddressProgramBenjaminF\AddressProgramBenjaminF\obj\Debug\AddressProgramBenjaminF.frmAddressProgram.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Falsetto, Benjamin (s255212)\Introduction\AddressProgramBenjaminF\AddressProgramBenjaminF\obj\Debug\AddressProgramBenjaminF.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Falsetto, Benjamin (s255212)\Introduction\AddressProgramBenjaminF\AddressProgramBenjaminF\obj\Debug\AddressProgramBenjaminF.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Falsetto, Benjamin (s255212)\Introduction\AddressProgramBenjaminF\AddressProgramBenjaminF\obj\Debug\AddressProgramBenjaminF.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Falsetto, Benjamin (s255212)\Introduction\AddressProgramBenjaminF\AddressProgramBenjaminF\obj\Debug\AddressProgramBenjaminF.pdb

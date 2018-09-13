@@ -1,0 +1,18 @@
+C:\Users\s255212\Documents\ICS3U Falsetto\Introduction\HelloWorldMenuBenF\HelloWorldMenuBenF\bin\Debug\HelloWorldMenuBenF.exe.config
+C:\Users\s255212\Documents\ICS3U Falsetto\Introduction\HelloWorldMenuBenF\HelloWorldMenuBenF\bin\Debug\HelloWorldMenuBenF.exe
+C:\Users\s255212\Documents\ICS3U Falsetto\Introduction\HelloWorldMenuBenF\HelloWorldMenuBenF\bin\Debug\HelloWorldMenuBenF.pdb
+C:\Users\s255212\Documents\ICS3U Falsetto\Introduction\HelloWorldMenuBenF\HelloWorldMenuBenF\obj\Debug\HelloWorldMenuBenF.csprojResolveAssemblyReference.cache
+C:\Users\s255212\Documents\ICS3U Falsetto\Introduction\HelloWorldMenuBenF\HelloWorldMenuBenF\obj\Debug\HelloWorldMenuBenF.frmHelloWorldMenu.resources
+C:\Users\s255212\Documents\ICS3U Falsetto\Introduction\HelloWorldMenuBenF\HelloWorldMenuBenF\obj\Debug\HelloWorldMenuBenF.Properties.Resources.resources
+C:\Users\s255212\Documents\ICS3U Falsetto\Introduction\HelloWorldMenuBenF\HelloWorldMenuBenF\obj\Debug\HelloWorldMenuBenF.csproj.GenerateResource.Cache
+C:\Users\s255212\Documents\ICS3U Falsetto\Introduction\HelloWorldMenuBenF\HelloWorldMenuBenF\obj\Debug\HelloWorldMenuBenF.exe
+C:\Users\s255212\Documents\ICS3U Falsetto\Introduction\HelloWorldMenuBenF\HelloWorldMenuBenF\obj\Debug\HelloWorldMenuBenF.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Falsetto, Benjamin (s255212)\Introduction\HelloWorldMenuBenF\HelloWorldMenuBenF\bin\Debug\HelloWorldMenuBenF.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Falsetto, Benjamin (s255212)\Introduction\HelloWorldMenuBenF\HelloWorldMenuBenF\bin\Debug\HelloWorldMenuBenF.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Falsetto, Benjamin (s255212)\Introduction\HelloWorldMenuBenF\HelloWorldMenuBenF\bin\Debug\HelloWorldMenuBenF.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Falsetto, Benjamin (s255212)\Introduction\HelloWorldMenuBenF\HelloWorldMenuBenF\obj\Debug\HelloWorldMenuBenF.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Falsetto, Benjamin (s255212)\Introduction\HelloWorldMenuBenF\HelloWorldMenuBenF\obj\Debug\HelloWorldMenuBenF.frmHelloWorldMenu.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Falsetto, Benjamin (s255212)\Introduction\HelloWorldMenuBenF\HelloWorldMenuBenF\obj\Debug\HelloWorldMenuBenF.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Falsetto, Benjamin (s255212)\Introduction\HelloWorldMenuBenF\HelloWorldMenuBenF\obj\Debug\HelloWorldMenuBenF.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Falsetto, Benjamin (s255212)\Introduction\HelloWorldMenuBenF\HelloWorldMenuBenF\obj\Debug\HelloWorldMenuBenF.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Falsetto, Benjamin (s255212)\Introduction\HelloWorldMenuBenF\HelloWorldMenuBenF\obj\Debug\HelloWorldMenuBenF.pdb
