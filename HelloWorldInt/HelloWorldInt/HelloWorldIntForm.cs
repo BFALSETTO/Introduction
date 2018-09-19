@@ -27,31 +27,37 @@ namespace HelloWorldInt
 
         private void radEnglish_CheckedChanged(object sender, EventArgs e)
         {
+            //When radEnglish is clicked, change the label language to english
             this.lblHelloWorld.Text = "Hello World!";
         }
 
         private void radFrench_CheckedChanged(object sender, EventArgs e)
         {
+            //When radFrench is clicked, change the label language to french
             this.lblHelloWorld.Text = "Bonjour le monde!";
         }
 
         private void radItalian_CheckedChanged(object sender, EventArgs e)
         {
+            //When radItalian is clicked, change the label language to italian
             this.lblHelloWorld.Text = "Ciao mondo!";
         }
 
         private void radSpanish_CheckedChanged(object sender, EventArgs e)
         {
+            //When radSpanish is clicked, change the label language to spanish
             this.lblHelloWorld.Text = "¡Hola mundo!";
         }
 
         private void radIrish_CheckedChanged(object sender, EventArgs e)
         {
+            //When radIrish is clicked, change the label language to Irish
             this.lblHelloWorld.Text = "Dia duit Domhanda!";
         }
 
         private void radRussian_CheckedChanged(object sender, EventArgs e)
         {
+            //When radRussian is clicked, change the label language to Russian
             this.lblHelloWorld.Text = "Добрый день, товарищ!";
         }
 
