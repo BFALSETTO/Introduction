@@ -40,7 +40,7 @@ namespace AreaCircVol
         private void btnVolSphere_Click(object sender, EventArgs e)
         {
             //This calculates the volume of the sphere. 4 / 3 didn't work so I used 1.3 repeated
-            lblVolSphereAns.Text = Convert.ToString(1.3333333333* (Math.PI * Math.Pow(6, 3))) + "cm^3";
+            lblVolSphereAns.Text = Convert.ToString( (double) 4 / (double) 3 * (Math.PI * Math.Pow(6, 3))) + "cm^3";
         }
     }
 }
