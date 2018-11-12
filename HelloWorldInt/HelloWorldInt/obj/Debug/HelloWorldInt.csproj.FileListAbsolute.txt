@@ -7,3 +7,12 @@ N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Falsetto, Benjamin (s255212
 N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Falsetto, Benjamin (s255212)\Introduction\HelloWorldInt\HelloWorldInt\obj\Debug\HelloWorldInt.csproj.GenerateResource.Cache
 N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Falsetto, Benjamin (s255212)\Introduction\HelloWorldInt\HelloWorldInt\obj\Debug\HelloWorldInt.exe
 N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Falsetto, Benjamin (s255212)\Introduction\HelloWorldInt\HelloWorldInt\obj\Debug\HelloWorldInt.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Falsetto, Benjamin (s255212)\Introduction\Introduction\HelloWorldInt\HelloWorldInt\bin\Debug\HelloWorldInt.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Falsetto, Benjamin (s255212)\Introduction\Introduction\HelloWorldInt\HelloWorldInt\bin\Debug\HelloWorldInt.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Falsetto, Benjamin (s255212)\Introduction\Introduction\HelloWorldInt\HelloWorldInt\bin\Debug\HelloWorldInt.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Falsetto, Benjamin (s255212)\Introduction\Introduction\HelloWorldInt\HelloWorldInt\obj\Debug\HelloWorldInt.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Falsetto, Benjamin (s255212)\Introduction\Introduction\HelloWorldInt\HelloWorldInt\obj\Debug\HelloWorldInt.frmHelloWorldInt.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Falsetto, Benjamin (s255212)\Introduction\Introduction\HelloWorldInt\HelloWorldInt\obj\Debug\HelloWorldInt.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Falsetto, Benjamin (s255212)\Introduction\Introduction\HelloWorldInt\HelloWorldInt\obj\Debug\HelloWorldInt.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Falsetto, Benjamin (s255212)\Introduction\Introduction\HelloWorldInt\HelloWorldInt\obj\Debug\HelloWorldInt.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Falsetto, Benjamin (s255212)\Introduction\Introduction\HelloWorldInt\HelloWorldInt\obj\Debug\HelloWorldInt.pdb
